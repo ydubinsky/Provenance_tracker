@@ -49,4 +49,4 @@ To run the example in this project, follow these steps:
 6.  **Expected Outputs:**
     The notebook should generate provenance logs (JSON and RDF), and a DOT graph of the pipeline.
 7.  **Writing Errors**
-    In case of writing errors, please delete the original output files provenance_census_graph.dot, provenance_census_log.json, provenance.ttl (This is done to prevent tampering of generated files)
+    In case of writing errors, please delete the original output files `provenance_census_graph.dot`, `provenance_census_log.json`, `provenance.ttl` (This is done to prevent tampering of generated files)
