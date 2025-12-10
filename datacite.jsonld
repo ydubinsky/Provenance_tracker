@@ -1,0 +1,30 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Dataset",
+  "name": "Provenance Tracker for Data Science Pipelines",
+  "creator": [
+    {
+      "@type": "Person",
+      "name": "Yuriy Dubinsky (YVD2)",
+      "affiliation": "University of Illinois at Urbana-Champaign"
+    }
+  ],
+  "description": "A tool for tracking data provenance in data science pipelines, ensuring reproducibility and transparency. This project focuses on integrating provenance tracking with pandas DataFrames and visualizing the data flow.",
+  "keywords": [
+    "provenance",
+    "data science",
+    "reproducibility",
+    "pandas",
+    "data pipelines",
+    "data lineage"
+  ],
+  "identifier": [
+    {
+      "@type": "PropertyValue",
+      "propertyID": "github",
+      "value": "https://github.com/ydubinsky/Provenance_tracker.git"
+    }
+  ],
+  "version": "1.0.0",
+  "datePublished": "2025-12-09"
+}
